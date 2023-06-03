@@ -10,6 +10,7 @@
 #Вывод: Парам пам-пам
 
 
+
 def rhythm(str):
     str = str.split()
     list = []
